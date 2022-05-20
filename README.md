@@ -5,8 +5,8 @@ Implementation Of A* Search Algorithm using OpenStreetMap.
 ############################################################################# Cloning
 
 When cloning this project, be sure to use the --recurse-submodules flag. Using HTTPS:
+git clone https://github.com/jaroslaw70/Astar-search-algorithm.git
 
-git clone https://github.com/adsv1623/CppND-Route-Planning-Project.git --recurse-submodules
 
 ######################################################################################### Dependencies for Running Locally
 
@@ -28,10 +28,6 @@ gcc/g++ >= 7.4.0
     
     Windows: recommend using MinGW
     
-IO2D
-
-    Installation instructions for all operating systems can be found here  https://github.com/cpp-io2d/P0267_RefImpl/blob/master/BUILDING.md
-    This library must be built in a place where CMake find_package will be able to find it
 
 #################################################################################################### Compiling and Running Compiling
 
